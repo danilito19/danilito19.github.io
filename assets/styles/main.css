@@ -681,6 +681,10 @@ pre {
 .tag-list > .list .item:hover .url aside {
   color: #666;
 }
+.nvd3-svg {
+  min-height: 400px;
+  min-width: 500px;
+}
 .author {
   padding: 3rem 0;
   border-bottom: 1px solid #ededed;

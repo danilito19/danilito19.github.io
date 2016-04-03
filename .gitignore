@@ -5,4 +5,6 @@ vendor
 npm-debug.log
 .bundle
 _site
+data/hr_data.csv
+.Rhistory
 tmp

@@ -23,6 +23,9 @@ layout: compress
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ "/feed.xml" }}" />
 
     <style>{% include main.css %}</style>
+    {% if page.viz %}
+        <style>{% include nvd3.css %}</style>
+    {% endif %}
 </head>
 <body>
 
