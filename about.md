@@ -16,17 +16,20 @@ permalink: /about/index.html
 * [aliada](https://aliada.mx/)
 * [this guy](http://maxarturoas.com/)
 
-<h2>Everyday work tools</h2>
+<h2>Work tools</h2>
 
 <ul class="skill-list">
     <li>Python</li>
     <li>R</li>
     <li>Econometrics models</li>
     <li>machine learning models</li>
+    <li>AWS, Azure</li>
+    <li>Parallelization, distributed computing</li>
+    <li>Spark</li>
     <li>Databases, SQL</li>
     <li>HTML, CSS</li>
     <li>Git</li>
-   <li>Data science workflow</li>
+   <li>Data science ETL and modeling workflow</li>
 </ul>
 
 <h2>Everyday life tools</h2>
